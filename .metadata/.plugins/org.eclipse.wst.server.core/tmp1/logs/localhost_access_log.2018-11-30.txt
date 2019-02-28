@@ -1,0 +1,13 @@
+127.0.0.1 - - [30/Nov/2018:17:22:16 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:22:17 +0530] "GET /HibernateJSPServletDemoApp/register.jsp HTTP/1.1" 200 1199
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:23:33 +0530] "POST /HibernateJSPServletDemoApp/EmployeeRegistrationController HTTP/1.1" 200 227
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:23:36 +0530] "GET /HibernateJSPServletDemoApp/login.jsp HTTP/1.1" 200 1090
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:23:45 +0530] "POST /HibernateJSPServletDemoApp/EmployeeLoginController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:23:45 +0530] "GET /HibernateJSPServletDemoApp/error.jsp HTTP/1.1" 200 388
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:24:57 +0530] "GET /HibernateJSPServletDemoApp/login.jsp HTTP/1.1" 200 1090
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:24:59 +0530] "GET /HibernateJSPServletDemoApp/register.jsp HTTP/1.1" 200 1198
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:25:39 +0530] "POST /HibernateJSPServletDemoApp/EmployeeRegistrationController HTTP/1.1" 200 227
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:25:41 +0530] "GET /HibernateJSPServletDemoApp/login.jsp HTTP/1.1" 200 1090
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:25:48 +0530] "POST /HibernateJSPServletDemoApp/EmployeeLoginController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:25:48 +0530] "GET /HibernateJSPServletDemoApp/welcome.jsp HTTP/1.1" 200 835
+0:0:0:0:0:0:0:1 - - [30/Nov/2018:17:25:53 +0530] "GET /HibernateJSPServletDemoApp/logout.jsp HTTP/1.1" 200 384
